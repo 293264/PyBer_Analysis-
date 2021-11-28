@@ -2,13 +2,19 @@
 
 The objective of this analysis is to create a DataFrame of the Pyber ride-sharing data by city type. Then, using Pandas and Matplotlib, create a multiple-line graph that shows the total weekly fares for each city type. Finally, in a written report,  describe how data differs based on the type of city and how that information can be utilized by PyBer decision-makers.
 
+
 **Results:
 
 According to the ride-sharing data-frame summary
+
 *When compared to suburban and rural cities, urban cities account for about 68% of total rides.
-*The number of drivers residing in urban areas makes up about 81 percent of those residing in suburban and rural areas. 
-*Urban cities account for about 63% of total fares, when compared with suburban and rural cities.  
+
+*The number of drivers residing in urban areas makes up about 81 percent of those residing in suburban and rural areas.
+
+*Urban cities account for about 63% of total fares, when compared with suburban and rural cities. 
+
 *Rural areas rank highest in Average Fare per Ride and Driver among city types.
+
 
 **Summary: 
 
