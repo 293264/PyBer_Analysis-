@@ -7,13 +7,13 @@ The objective of this analysis is to create a DataFrame of the Pyber ride-sharin
 
 According to the ride-sharing data-frame summary
 
-*When compared to suburban and rural cities, urban cities account for about 68% of total rides.
+* When compared to suburban and rural cities, urban cities account for about 68% of total rides.
 
-*The number of drivers residing in urban areas makes up about 81 percent of those residing in suburban and rural areas.
+* The number of drivers residing in urban areas makes up about 81 percent of those residing in suburban and rural areas.
 
-*Urban cities account for about 63% of total fares, when compared with suburban and rural cities. 
+* Urban cities account for about 63% of total fares, when compared with suburban and rural cities. 
 
-*Rural areas rank highest in Average Fare per Ride and Driver among city types.
+* Rural areas rank highest in Average Fare per Ride and Driver among city types.
 
 
 **Summary: 
